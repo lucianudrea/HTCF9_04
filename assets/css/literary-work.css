@@ -1,0 +1,13 @@
+main {
+    /* overflow: scroll; */
+}
+
+.td-location {
+  width: 85px;
+  text-align: center;
+}
+
+.td-year {
+  width: 60px;
+  text-align: center;
+}

@@ -1,0 +1,8 @@
+main {
+    /* overflow: scroll; */
+}
+
+figure {
+  margin-inline-start: 0;
+  float: left;
+}
